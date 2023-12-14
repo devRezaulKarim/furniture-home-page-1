@@ -18,6 +18,10 @@ body {
 
 }
 
+.container.nav-container{
+    padding: 0 60px
+}
+
 .nav-area {
     display: flex;
     justify-content: space-between;
